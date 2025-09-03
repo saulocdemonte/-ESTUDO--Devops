@@ -1,6 +1,6 @@
-# 01 - Habilidades Essenciais do Engenheiro DevOps
+# 01 - Quais habilidades são necessárias para se tornar um Engenheiro DevOps?
 
-Este documento detalha as competências técnicas (hard skills) e comportamentais (soft skills) fundamentais para um Engenheiro DevOps. O objetivo não é ser um especialista em tudo, mas ter uma base sólida em cada uma dessas áreas e se aprofundar nas que forem mais relevantes para o seu dia a dia.
+Esta página detalha as competências técnicas (hard skills) и comportamentais (soft skills) fundamentais para um Engenheiro DevOps. O objetivo não é ser um especialista em tudo, mas ter uma base sólida em cada uma dessas áreas e se aprofundar nas que forem mais relevantes para o dia a dia.
 
 ---
 
