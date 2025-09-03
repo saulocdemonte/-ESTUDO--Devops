@@ -2,7 +2,7 @@
 
 Este repositório funciona como um Guia de Perguntas Frequentes (FAQ) sobre o universo DevOps, documentando minhas respostas e estudos sobre os principais tópicos da área.
 
-O conteúdo foi gerado a partir de conversas com o Gemini e está em constante atualização conforme avanço nos meus estudos.
+O conteúdo foi gerado a partir de estudos utilizando pesquisas, materiais de cursos, artigos,  conversas com o Gemini e está em constante atualização conforme avanço nos meus estudos.
 
 ---
 
