@@ -1,35 +1,34 @@
-# FAQ Comparativo: DevOps e SRE - Um Guia de Estudos Prático
+# Minha Jornada DevOps
 
-Este repositório funciona como um Guia de Perguntas Frequentes (FAQ), documentando e comparando os universos de DevOps e SRE (Site Reliability Engineering).
+Repositório com minhas anotações, scripts e projetos práticos da minha jornada de aprendizado em DevOps. Este espaço serve como minha base de conhecimento e portfólio de estudos.
 
-O conteúdo foi gerado a partir de estudos utilizando pesquisas, materiais de cursos, artigos, conversas com o Gemini, e está em constante atualização conforme avanço na minha jornada para me tornar um profissional de DevOps/SRE.
-
----
-
-## Perguntas Frequentes (FAQ)
-
-### 🚀 Carreira e Habilidades
-
-* [Quais as habilidades essenciais para DevOps e SRE?](./01-Habilidades-Essenciais.md)
-* [Como DevOps e SRE utilizam a programação?](./02-O-Papel-da-Programacao.md)
-* [Qual o comparativo de funções entre Dev, DevOps e SRE?](./03-Comparativo-com-Desenvolvedores.md)
-* [Como me preparar para entrevistas de DevOps e SRE?](./04-Preparacao-para-Entrevistas.md)
-
-### ⚙️ Conceitos e Processos
-
-* [O que é o Ciclo de Vida da Entrega de Software?](./05-O-Ciclo-de-Vida-da-Entrega.md)
-* [Qual o papel da automação em DevOps e SRE?](./06-O-Papel-da-Automacao.md)
-* [Como são construídos os pipelines?](./07-Construcao-de-Pipelines.md)
-* [Quais são as métricas de sucesso para DevOps e SRE?](./08-Metricas-de-Sucesso.md)
-* [Quais são os mitos e realidades sobre DevOps?](./09-Mitos-e-Realidades.md)
-
-### 🌐 Comparações e Ecossistema
-
-* [Como Agile se relaciona com DevOps e SRE?](./10-Relacao-com-Agile.md)
-* [Qual a filosofia e o foco principal de DevOps vs. SRE?](./11-Filosofia-e-Foco-Principal.md)
-* [O que é DevSecOps e como ele se integra?](./12-A-Integracao-com-Seguranca.md)
-* [O que é o conceito de "Shift-Left"?](./13-O-Conceito-de-Shift-Left.md)
-* [Como a Engenharia de Plataforma se encaixa nesse ecossistema?](./14-Comparativo-com-Engenharia-de-Plataforma.md)
+O objetivo é documentar de forma estruturada os conceitos, ferramentas e culturas que compõem o universo DevOps, SRE e Engenharia de Plataforma.
 
 ---
-*Este repositório está em constante construção. Novos capítulos e projetos práticos serão adicionados regularmente.*
+
+## 📚 Documentação (FAQ)
+
+Todo o conteúdo teórico está na pasta `/docs`.
+
+* [Capítulo 01: Habilidades Essenciais para DevOps e SRE](./docs/01-Habilidades-Essenciais.md)
+* [Capítulo 02: O Papel da Programação](./docs/02-O-Papel-da-Programacao.md)
+* [Capítulo 03: Comparativo com Desenvolvedores](./docs/03-Comparativo-com-Desenvolvedores.md)
+* [Capítulo 04: Preparação para Entrevistas](./docs/04-Preparacao-para-Entrevistas.md)
+* [Capítulo 05: O Ciclo de Vida da Entrega](./docs/05-O-Ciclo-de-Vida-da-Entrega.md)
+* [Capítulo 06: O Papel da Automação](./docs/06-O-Papel-da-Automacao.md)
+* [Capítulo 07: Construção de Pipelines](./docs/07-Construcao-de-Pipelines.md)
+* [Capítulo 08: Métricas de Sucesso](./docs/08-Metricas-de-Sucesso.md)
+* [Capítulo 09: Mitos e Realidades](./docs/09-Mitos-e-Realidades.md)
+* [Capítulo 10: Relação com Agile](./docs/10-Relacao-com-Agile.md)
+* [Capítulo 11: Filosofia e Foco Principal (DevOps vs SRE)](./docs/11-Filosofia-e-Foco-Principal.md)
+* [Capítulo 12: A Integração com Segurança (DevSecOps)](./docs/12-A-Integracao-com-Seguranca.md)
+* [Capítulo 13: O Conceito de "Shift-Left"](./docs/13-O-Conceito-de-Shift-Left.md)
+* [Capítulo 14: Comparativo com Engenharia de Plataforma](./docs/14-Comparativo-com-Engenharia-de-Plataforma.md)
+
+## 💻 Projetos Práticos
+
+A pasta `/projetos` contém projetos práticos que aplicam os conceitos estudados.
+*(Esta seção será preenchida conforme os projetos forem criados)*
+
+---
+*Este repositório está em constante construção.*
