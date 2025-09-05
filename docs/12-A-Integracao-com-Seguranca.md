@@ -18,7 +18,7 @@ Isso cria um enorme gargalo, gera atrito entre as equipes e trata a segurança c
 
 ### A Solução DevSecOps: "Shift-Left Security"
 
-DevSecOps resolve isso aplicando o princípio de **"Shift-Left"** (que veremos em detalhes no próximo capítulo), ou seja, "deslocando a segurança para a esquerda", para o início do processo.
+DevSecOps resolve isso aplicando o princípio de **"Shift-Left"**, ou seja, "deslocando a segurança para a esquerda", para o início do processo.
 
 A segurança se torna automatizada e integrada ao pipeline de DevOps:
 
