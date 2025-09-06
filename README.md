@@ -36,52 +36,32 @@ Este fluxograma representa a jornada de aprendizado prático que estou seguindo,
 
 ```mermaid
 graph TD;
-    subgraph "Jornada de Aprendizagem DevOps/SRE"
-        %% A direção TD (Top-Down) já é o padrão do graph TD; mas explicitamos para clareza
-        
-        %% Definição dos Estágios (Mantemos a mesma ordem lógica, mas agora na vertical)
-        A(<b>1. Linguagem de Programação</b><br/>Python ou Go)
-        B(<b>2. Sistema Operacional</b><br/>Fundamentos de Linux)
-        C(<b>3. Redes e Protocolos</b><br/>DNS, HTTP, SSH)
-        D(<b>4. Contêineres</b><br/>Docker)
-        E(<b>5. Controle de Versão</b><br/>Git & GitHub)
-        F(<b>6. Provedor de Nuvem</b><br/>AWS)
-        G(<b>7. Infraestrutura como Código</b><br/>Terraform)
-        H(<b>8. Gerenciamento de Configuração</b><br/>Ansible)
-        I(<b>9. CI/CD</b><br/>GitHub Actions)
-        J(<b>10. Servidor Web / Proxy</b><br/>Nginx)
-        K((<b>Próximos Passos</b><br/>Aprofundar e criar projetos))
+    %% Definição dos Nós
+    A(<b>1. Linguagem de Programação</b><br/>Python ou Go)
+    B(<b>2. Sistema Operacional</b><br/>Fundamentos de Linux)
+    C(<b>3. Redes e Protocolos</b><br/>DNS, HTTP, SSH)
+    D(<b>4. Contêineres</b><br/>Docker)
+    E(<b>5. Controle de Versão</b><br/>Git & GitHub)
+    F(<b>6. Provedor de Nuvem</b><br/>AWS)
+    G(<b>7. Infraestrutura como Código</b><br/>Terraform)
+    H(<b>8. Gerenciamento de Configuração</b><br/>Ansible)
+    I(<b>9. CI/CD</b><br/>GitHub Actions)
+    J(<b>10. Servidor Web / Proxy</b><br/>Nginx)
+    K((<b>Próximos Passos</b><br/>Aprofundar e criar projetos))
 
-        %% Conexões na ordem vertical
-        A --> B;
-        B --> C;
-        C --> D;
-        D --> E;
-        E --> F;
-        F --> G;
-        G --> H;
-        H --> I;
-        I --> J;
-        J --> K;
+    %% Conexões na ordem vertical
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    J --> K
 
-    end
-
-    %% Styling para deixar o visual mais agradável
-    style A fill:#FDF4CD,stroke:#F7D96D
-    style B fill:#FDF4CD,stroke:#F7D96D
-    style C fill:#FDF4CD,stroke:#F7D96D
-    style D fill:#DBEAFE,stroke:#60A5FA
-    style E fill:#DBEAFE,stroke:#60A5FA
-    style F fill:#D1FAE5,stroke:#34D399
-    style G fill:#D1FAE5,stroke:#34D399
-    style H fill:#D1FAE5,stroke:#34D399
-    style I fill:#D1FAE5,stroke:#34D399
-    style J fill:#D1FAE5,stroke:#34D399
-    style K fill:#E0E7FF,stroke:#818CF8
-
-```
-
------
+```    
 
 ---
 *Este repositório está em constante construção.*
