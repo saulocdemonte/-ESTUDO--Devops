@@ -30,5 +30,43 @@ Todo o conteúdo teórico está na pasta `/docs`.
 A pasta `/projetos` contém projetos práticos que aplicam os conceitos estudados.
 *(Esta seção será preenchida conforme os projetos forem criados)*
 
+## 🗺️ Meu Roteiro de Aprendizagem Visual
+
+Este fluxograma representa a jornada de aprendizado prático que estou seguindo, baseado em roadmaps da comunidade.
+
+```mermaid
+graph TD;
+    subgraph "Jornada de Aprendizagem DevOps/SRE"
+        direction LR
+        
+        %% Definição dos Estágios
+        A(<b>1. Linguagem de Programação</b><br/>Python ou Go) --> B(<b>2. Sistema Operacional</b><br/>Fundamentos de Linux);
+        B --> C(<b>3. Redes e Protocolos</b><br/>DNS, HTTP, SSH);
+        C --> D(<b>4. Contêineres</b><br/>Docker);
+        D --> E(<b>5. Controle de Versão</b><br/>Git & GitHub);
+        E --> F(<b>6. Provedor de Nuvem</b><br/>AWS);
+        F --> G(<b>7. Infraestrutura como Código</b><br/>Terraform);
+        G --> H(<b>8. Gerenciamento de Configuração</b><br/>Ansible);
+        H --> I(<b>9. CI/CD</b><br/>GitHub Actions);
+        I --> J(<b>10. Servidor Web / Proxy</b><br/>Nginx);
+        J --> K((<b>Próximos Passos</b><br/>Aprofundar e criar projetos));
+
+    end
+
+    %% Styling para deixar o visual mais agradável
+    style A fill:#FDF4CD,stroke:#F7D96D
+    style B fill:#FDF4CD,stroke:#F7D96D
+    style C fill:#FDF4CD,stroke:#F7D96D
+    style D fill:#DBEAFE,stroke:#60A5FA
+    style E fill:#DBEAFE,stroke:#60A5FA
+    style F fill:#D1FAE5,stroke:#34D399
+    style G fill:#D1FAE5,stroke:#34D399
+    style H fill:#D1FAE5,stroke:#34D399
+    style I fill:#D1FAE5,stroke:#34D399
+    style J fill:#D1FAE5,stroke:#34D399
+    style K fill:#E0E7FF,stroke:#818CF8
+
+```
+
 ---
 *Este repositório está em constante construção.*
